@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bush.iml" filepath="$PROJECT_DIR$/.idea/bush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bash.iml" filepath="$PROJECT_DIR$/.idea/bash.iml" />
     </modules>
   </component>
 </project>
